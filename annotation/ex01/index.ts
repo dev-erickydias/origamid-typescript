@@ -9,4 +9,4 @@ function normalizarTerxto(texto: string) {
     return console.log(texto.trim().toLowerCase())
 }
 
-normalizarTerxto("   ericky   ")
+normalizarTerxto("   ericky   ") 
